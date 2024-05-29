@@ -4,6 +4,7 @@ MyClass::MyClass() {
 }
 
 MyClass::MyClass(int x_) { 
+  //Constructor
   x = x_; 
 }
 
